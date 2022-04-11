@@ -103,8 +103,10 @@ celerybeat.pid
 
 # Environments
 .env
+.env_spark
 .venv
 env/
+.env_spark/
 venv/
 ENV/
 env.bak/
